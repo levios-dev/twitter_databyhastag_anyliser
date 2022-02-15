@@ -1,0 +1,16 @@
+{
+  "name": "zemmour2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "needle": "^3.0.0",
+    "twitter-api-client": "^1.5.1"
+  }
+}
