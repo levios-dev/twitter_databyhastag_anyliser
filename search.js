@@ -45,4 +45,5 @@ async function getRequest() {
         process.exit(-1);
     }
     process.exit();
+    
 })();
